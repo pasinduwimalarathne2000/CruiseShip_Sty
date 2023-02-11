@@ -1,0 +1,25 @@
+
+Cabin 1
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 2
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 3
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 4
+ -> Customer Name: pasindu||Customer Surname :ert|| Customer Expenses :3400
+Cabin 5
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 6
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 7
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 8
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 9
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 10
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 11
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
+Cabin 12
+ -> Customer Name: e||Customer Surname :e|| Customer Expenses :e
